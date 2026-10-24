@@ -1,0 +1,6 @@
+{
+  "name": "Abo El Dahab - Premium Automotive Oils",
+  "description": "Official website for Abo El Dahab Automotive Oils in Faqous, Al Sharqia. Quality automotive oils, motor lubricants, and direct contact via WhatsApp and phone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
